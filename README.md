@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Asos2 MCP (Multi-Channel Platform) server is a sophisticated tool designed to fetch and reproduce public data and features from a popular fashion brand's website in real time. This means users can access almost everything that is displayed publicly on the site, with live data synced directly at the time of request. The platform ensures no local caching or data storage, providing the most up-to-date information at all times.
+The Asos2 MCP (Model context protocol) server is a sophisticated tool designed to fetch and reproduce public data and features from a popular fashion brand's website in real time. This means users can access almost everything that is displayed publicly on the site, with live data synced directly at the time of request. The platform ensures no local caching or data storage, providing the most up-to-date information at all times.
 
 ## Features
 
